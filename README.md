@@ -60,13 +60,15 @@
 
 [→ 퀘스트 살펴보기](https://github.com/mschoi0411/real_ocr_translator)
 
-### 📊 UX & A/B Experiment Lab
+### 📊 UX-Stream Dashboard
 
-사용자 이벤트 수집부터 실험 관리, 지표 대시보드, 비주얼 에디터와 챗봇까지 탐구하는 샘플 앱.
+브라우저 SDK로 사용자 행동을 수집하고, Kafka·Redis 기반 실시간 파이프라인으로 UX를 분석하는 캡스톤 팀 프로젝트.
 
-`JavaScript` `Node.js` `Express` · **행동 분석 / A/B 실험 / AI 활용**
+세션 흐름과 이탈 유형을 분석해 AI 인사이트를 제공하고, Visual Editor로 만든 UI 개선안을 A/B 테스트로 검증하는 흐름을 연결합니다.
 
-[→ 퀘스트 살펴보기](https://github.com/mschoi0411/test_ux)
+`JavaScript` `Node.js` `Kafka` `Redis` · **실시간 UX 분석 / AI 인사이트 / UI 개선 / A/B 테스트**
+
+[→ 대시보드 퀘스트](https://github.com/Legend-Capstone-Design-26/Dashboard) · [브라우저 SDK](https://github.com/Legend-Capstone-Design-26/UX_SDK) · [이커머스 데모](https://github.com/Legend-Capstone-Design-26/Ecommerce)
 
 ### 🎙️ VoiceForge AI
 
