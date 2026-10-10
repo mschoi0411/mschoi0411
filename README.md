@@ -25,7 +25,6 @@
 | 슬롯 | 소개 |
 | :--- | :--- |
 | **Player** | 최민석 · Minseok Choi |
-| **Base camp** | 광운대학교 정보융합학부 |
 | **Main interests** | AI · 데이터 분석 · 보안 |
 | **Side quests** | 웹·앱 개발 · 게임 개발 · 자동화 도구 |
 | **Play style** | 문제를 발견하고, 직접 만들며 배우기 |
@@ -38,9 +37,15 @@
 
 | 장비 | 기술 |
 | :--- | :--- |
-| **Languages** | `Python` · `JavaScript` |
-| **Web** | `Node.js` · `Express` |
+| **Languages** | `Python` · `Java` · `JavaScript` · `TypeScript` |
+| **Frontend** | `React` · `Next.js` · `Vite` |
+| **Backend** | `Node.js` · `Express` · `FastAPI` · `NestJS` |
+| **Database & ORM** | `MySQL` · `Prisma` |
+| **Mobile** | `Android` · `AndroidX` · `Material Components` |
 | **Desktop & Vision** | `PySide6` · `OpenCV` · `Tesseract OCR` |
+| **AI & Visualization** | `OpenAI API` · `Chart.js` |
+| **Bots & Audio** | `discord.py` · `edge-tts` · `yt-dlp` |
+| **Dev Tools** | `Git` · `Docker` · `Gradle` · `ESLint` |
 | **Quality & Packaging** | `pytest` · `Ruff` · `mypy` · `PyInstaller` |
 
 <a name="quest-log"></a>
