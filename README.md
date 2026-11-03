@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/pixel-quest.svg" width="100%" alt="Minseok Choi — 보라색 밤하늘의 픽셀 탐험가와 AI 크리스털. AI · Data · Security" />
+  <img src="./assets/pixel-quest.svg" width="100%" alt="Minseok Choi — a pixel explorer and AI crystal under a purple night sky. AI · Data · Security" />
 </p>
 
-<h3 align="center">작은 호기심을, 실제로 쓸 수 있는 도구로.</h3>
+<h3 align="center">Turning curiosity into useful tools.</h3>
 
 <p align="center">
-  AI와 데이터 분석을 탐구하고, 웹과 데스크톱 도구를 만들고 있습니다.<br />
-  보안과 게임 개발에도 관심이 있는 개발자 최민석입니다.
+  I'm Minseok, a developer exploring AI and data analysis through web and desktop projects.<br />
+  My side quests include security, game development, and automation.
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
 
 ## 🧑‍💻 01 · PLAYER CARD
 
-| 슬롯 | 소개 |
+| Slot | Details |
 | :--- | :--- |
-| **Player** | 최민석 · Minseok Choi |
-| **Main interests** | AI · 데이터 분석 · 보안 |
-| **Side quests** | 웹·앱 개발 · 게임 개발 · 자동화 도구 |
-| **Play style** | 문제를 발견하고, 직접 만들며 배우기 |
+| **Player** | Minseok Choi |
+| **Main interests** | AI · Data Analysis · Security |
+| **Side quests** | Web & App Development · Game Development · Automation |
+| **Play style** | Find a problem. Build a solution. Learn along the way. |
 
 <a name="inventory"></a>
 
 ## 🎒 02 · INVENTORY
 
-공개 프로젝트에서 사용한 도구와 기술입니다.
+Tools and technologies used across my public projects.
 
-| 장비 | 기술 |
+| Equipment | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` · `Java` · `JavaScript` · `TypeScript` |
 | **Frontend** | `React` · `Next.js` · `Vite` |
@@ -54,34 +54,34 @@
 
 ### 🔮 Screen Translate Overlay
 
-화면의 텍스트를 OCR로 읽고, 번역을 오버레이로 보여주는 Windows 데스크톱 도구.
+A Windows desktop tool that reads on-screen text with OCR and displays translations in an overlay.
 
-`Python` `PySide6` `Tesseract` · **화면 인식 / 번역 / 오버레이**
+`Python` `PySide6` `Tesseract` · **Screen OCR / Translation / Overlays**
 
-[→ 퀘스트 살펴보기](https://github.com/mschoi0411/real_ocr_translator)
+[→ Explore the quest](https://github.com/mschoi0411/real_ocr_translator)
 
 ### 📊 UX-Stream Dashboard
 
-브라우저 SDK로 사용자 행동을 수집하고, Kafka·Redis 기반 실시간 파이프라인으로 UX를 분석하는 캡스톤 팀 프로젝트.
+A capstone team project that collects user behavior through a browser SDK and analyzes UX through a real-time Kafka and Redis pipeline.
 
-세션 흐름과 이탈 유형을 분석해 AI 인사이트를 제공하고, Visual Editor로 만든 UI 개선안을 A/B 테스트로 검증하는 흐름을 연결합니다.
+Connects session journeys and drop-off analysis with AI insights, a Visual Editor for UI improvements, and A/B testing to evaluate changes.
 
-`JavaScript` `Node.js` `Kafka` `Redis` · **실시간 UX 분석 / AI 인사이트 / UI 개선 / A/B 테스트**
+`JavaScript` `Node.js` `Kafka` `Redis` · **Real-time UX Analytics / AI Insights / UI Improvements / A/B Testing**
 
-[→ 대시보드 퀘스트](https://github.com/Legend-Capstone-Design-26/Dashboard) · [브라우저 SDK](https://github.com/Legend-Capstone-Design-26/UX_SDK) · [이커머스 데모](https://github.com/Legend-Capstone-Design-26/Ecommerce)
+[→ Dashboard quest](https://github.com/Legend-Capstone-Design-26/Dashboard) · [Browser SDK](https://github.com/Legend-Capstone-Design-26/UX_SDK) · [Ecommerce demo](https://github.com/Legend-Capstone-Design-26/Ecommerce)
 
 ### 🎙️ VoiceForge AI
 
-오프라인 실시간 음성변조를 목표로 개발 중인 프로젝트. 현재 초기 구조를 구축한 단계입니다.
+An offline, real-time voice changer in early development. The initial project scaffold is in place.
 
-`Python` · **실시간 오디오 / DSP / ONNX 모델 연동 계획**
+`Python` · **Real-time Audio / DSP / Planned ONNX Integration**
 
-[→ 퀘스트 살펴보기](https://github.com/mschoi0411/voiceforge-ai)
+[→ Explore the quest](https://github.com/mschoi0411/voiceforge-ai)
 
 <details>
-<summary><b>🏆 Achievement unlocked · 첫 번째 대회 우승</b></summary>
+<summary><b>🏆 Achievement unlocked · First Competition Win</b></summary>
 
-광운대학교 창의설계입문 대회 1위 팀 프로젝트 자료입니다.
+Team project materials from our first-place entry in Kwangwoon University's Introduction to Creative Design competition.
 
 [→ Traffic Protectors](https://github.com/mschoi0411/traffic-protectors)
 
@@ -91,9 +91,9 @@
 
 ## 🌱 04 · NEXT STAGE
 
-- **AI & Data** — 데이터를 해석하고, 실제 서비스에 연결하는 방법 탐구
-- **Security** — 시스템의 동작 원리와 취약점을 이해하는 공부
-- **Game Dev** — AI를 활용한 게임과 상호작용 실험
+- **AI & Data** — Explore how to turn data into insights and working services
+- **Security** — Study how systems work and where vulnerabilities arise
+- **Game Dev** — Experiment with AI-powered games and interactive experiences
 
 <br />
 
